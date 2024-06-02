@@ -1,4 +1,3 @@
-Sure! Here's a sample README file for the `nft_manager.js` code:
 
 ```markdown
 # NFT Manager
