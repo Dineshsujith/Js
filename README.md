@@ -12,13 +12,13 @@ This project provides a simple NFT (Non-Fungible Token) manager implemented in J
 
 ## Usage
 
-You can run the `nft_manager.js` file using Node.js to see how it works.
+You can run the `nftManager.js` file using Node.js to see how it works.
 
-1. Open a terminal and navigate to the directory containing the `nft_manager.js` file.
+1. Open a terminal and navigate to the directory containing the `nftManager.js` file.
 2. Run the following command to execute the script:
 
     ```sh
-    node nft_manager.js
+    node nftManager.js
     ```
 
 3. The script will output the list of NFTs and the total number of NFTs created to the console.
